@@ -6431,7 +6431,7 @@ paths:
         - OAuth2: [payroll.employees, payroll.employees.read]
       tags:
         - PayrollNz
-      operationId: getEmployeeWorkingPatterns
+      operationId: getEmployeeWorkingPattern
       x-hasPayrollUkProblem: true
       summary: Retrieves employee's working patterns
       parameters:
